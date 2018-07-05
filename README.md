@@ -1,4 +1,5 @@
 - Demo: http://lmtX10ded.github.io/react-app-bronze
+- Single Page Application(SPA)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
